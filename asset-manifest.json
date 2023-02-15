@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.66db420e.css",
-    "main.js": "/static/js/main.b99ca237.js",
+    "main.js": "/static/js/main.249e4a8b.js",
     "static/media/RTS_navbarlogo.png": "/static/media/RTS_navbarlogo.e830198382a460880153.png",
     "index.html": "/index.html",
     "main.66db420e.css.map": "/static/css/main.66db420e.css.map",
-    "main.b99ca237.js.map": "/static/js/main.b99ca237.js.map"
+    "main.249e4a8b.js.map": "/static/js/main.249e4a8b.js.map"
   },
   "entrypoints": [
     "static/css/main.66db420e.css",
-    "static/js/main.b99ca237.js"
+    "static/js/main.249e4a8b.js"
   ]
 }
