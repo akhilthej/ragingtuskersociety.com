@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.66db420e.css",
-    "main.js": "/static/js/main.249e4a8b.js",
+    "main.css": "/static/css/main.a25e9561.css",
+    "main.js": "/static/js/main.aee6a037.js",
     "static/media/RTS_navbarlogo.png": "/static/media/RTS_navbarlogo.e830198382a460880153.png",
+    "static/media/RAGING RUSKER SOCIETY. collectibles.svg": "/static/media/RAGING RUSKER SOCIETY. collectibles.617974896fd369ef835e9088d58df1fb.svg",
     "index.html": "/index.html",
-    "main.66db420e.css.map": "/static/css/main.66db420e.css.map",
-    "main.249e4a8b.js.map": "/static/js/main.249e4a8b.js.map"
+    "main.a25e9561.css.map": "/static/css/main.a25e9561.css.map",
+    "main.aee6a037.js.map": "/static/js/main.aee6a037.js.map"
   },
   "entrypoints": [
-    "static/css/main.66db420e.css",
-    "static/js/main.249e4a8b.js"
+    "static/css/main.a25e9561.css",
+    "static/js/main.aee6a037.js"
   ]
 }
